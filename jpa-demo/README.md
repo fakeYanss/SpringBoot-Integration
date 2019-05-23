@@ -1,0 +1,1 @@
+一个 JPA demo，包含实体类配置和 JpaRepository 的使用。
